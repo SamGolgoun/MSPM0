@@ -13,6 +13,12 @@ A compact development board built around the **Texas Instruments MSPM0G3507** Ar
 - **SWD header** (TC2030 Tag-Connect) for programming and debugging
 - Decoupling and reset circuitry following manufacturer recommendations
 
+## Schematic
+
+![MSPM0 schematic](schematic.png)
+
+*Schematic of the MSPM0G3507 board: MCU, USB-UART converter, LIS2DH accelerometer and SWD header.*
+
 ## Repository Contents
 
 | File | Description |
