@@ -12,8 +12,10 @@ A compact development board built around the **Texas Instruments MSPM0G3507** Ar
 - **8 MHz external crystal** (HFXT)
 - **SWD header** (TC2030 Tag-Connect) for programming and debugging
 - Decoupling and reset circuitry following manufacturer recommendations
+
 ## Schematic
-! [MSPM0 schematic](Schematic%20MSPM0.png)
+
+![MSPM0 schematic](Scheme%20MSPM0.png)
 
 ## Repository Contents
 
