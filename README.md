@@ -48,5 +48,3 @@ This project was created while following the [Phil's Lab](https://www.youtube.co
 ## License
 
 Released under the MIT License (see `LICENSE`). Note that the reference tutorial's own license/terms apply to any material derived from it.
-
-#kicad #pcb #mspm0 #texas-instruments #embedded #hardware #electronics
