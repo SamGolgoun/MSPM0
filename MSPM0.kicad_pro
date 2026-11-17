@@ -53,7 +53,7 @@
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
           "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
@@ -62,7 +62,7 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.5,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.2,
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -553,8 +553,8 @@
         "bus_width": 12,
         "line_style": 0,
         "name": "+3V3",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "pcb_color": "rgb(255, 0, 14)",
+        "priority": 4,
         "schematic_color": "rgb(255, 0, 14)",
         "tuning_profile": "",
         "wire_width": 6
@@ -562,9 +562,19 @@
       {
         "bus_width": 12,
         "line_style": 0,
+        "name": "GND",
+        "pcb_color": "rgb(72, 72, 72)",
+        "priority": 1,
+        "schematic_color": "rgb(72, 72, 72)",
+        "tuning_profile": "",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
         "name": "HF",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 4,
+        "pcb_color": "rgb(55, 5, 255)",
+        "priority": 5,
         "schematic_color": "rgb(55, 5, 255)",
         "tuning_profile": "",
         "wire_width": 6
@@ -573,9 +583,9 @@
         "bus_width": 12,
         "line_style": 0,
         "name": "I2C",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 3,
-        "schematic_color": "rgb(20, 157, 255)",
+        "pcb_color": "rgb(0, 132, 132)",
+        "priority": 0,
+        "schematic_color": "rgb(0, 132, 132)",
         "tuning_profile": "",
         "wire_width": 6
       },
@@ -583,8 +593,8 @@
         "bus_width": 12,
         "line_style": 0,
         "name": "SWD",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "pcb_color": "rgb(173, 4, 255)",
+        "priority": 3,
         "schematic_color": "rgb(173, 4, 255)",
         "tuning_profile": "",
         "wire_width": 6
@@ -593,8 +603,8 @@
         "bus_width": 12,
         "line_style": 0,
         "name": "UART",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 5,
+        "pcb_color": "rgb(255, 7, 246)",
+        "priority": 6,
         "schematic_color": "rgb(255, 7, 246)",
         "tuning_profile": "",
         "wire_width": 6
@@ -603,8 +613,8 @@
         "bus_width": 12,
         "line_style": 0,
         "name": "USB",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 6,
+        "pcb_color": "rgb(38, 255, 12)",
+        "priority": 7,
         "schematic_color": "rgb(38, 255, 12)",
         "tuning_profile": "",
         "wire_width": 6
@@ -613,8 +623,8 @@
         "bus_width": 12,
         "line_style": 0,
         "name": "VREF",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "pcb_color": "rgb(35, 255, 247)",
+        "priority": 2,
         "schematic_color": "rgb(35, 255, 247)",
         "tuning_profile": "",
         "wire_width": 6
@@ -639,7 +649,7 @@
         "pattern": "/HF*"
       },
       {
-        "netclass": "I2C",
+        "netclass": "Default",
         "pattern": "/I2C*"
       },
       {
@@ -668,7 +678,7 @@
       },
       {
         "netclass": "I2C",
-        "pattern": "/INT*"
+        "pattern": "I2C*"
       },
       {
         "netclass": "HF",
@@ -677,6 +687,14 @@
       {
         "netclass": "+3V3",
         "pattern": "1*"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "I2C",
+        "pattern": "INT*"
       }
     ]
   },
