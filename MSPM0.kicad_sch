@@ -6876,7 +6876,7 @@
 		)
 		(uuid "ff393cc9-63ca-40c5-afdd-a6e2e8844aba")
 	)
-	(global_label "I2C1SCL"
+	(global_label "I2C0SCL"
 		(shape input)
 		(at 73.66 138.43 0)
 		(fields_autoplaced yes)
@@ -6972,7 +6972,7 @@
 			)
 		)
 	)
-	(global_label "I2C1SCL"
+	(global_label "I2C0SCL"
 		(shape output)
 		(at 176.53 83.82 180)
 		(fields_autoplaced yes)
