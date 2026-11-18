@@ -15,7 +15,7 @@ A compact development board built around the **Texas Instruments MSPM0G3507** Ar
 
 ## Schematic
 
-![MSPM0 schematic](SchemeMSPM0.png)
+![MSPM0 schematic](Scheme.png)
 
 ## Repository Contents
 
