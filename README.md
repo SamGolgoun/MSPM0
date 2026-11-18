@@ -14,8 +14,7 @@ A compact development board built around the **Texas Instruments MSPM0G3507** Ar
 - Decoupling and reset circuitry following manufacturer recommendations
 
 ## Schematic
-
-![MSPM0 schematic](MSPM0.png)
+![MSPM0 schematic](images/MSPM0.png)
 
 ## Repository Contents
 
