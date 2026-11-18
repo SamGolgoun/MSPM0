@@ -7189,7 +7189,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 92.71 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7200,7 +7200,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 92.71 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7222,7 +7222,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 92.71 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -7255,8 +7255,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 92.71 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 92.71 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 92.71 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7421,7 +7443,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 107.95 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7432,7 +7454,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 107.95 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7454,7 +7476,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 107.95 29.21 90)
 			(hide yes)
 			(show_name no)
@@ -7487,8 +7509,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 107.95 29.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 107.95 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 107.95 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7558,7 +7602,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 57.15 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7569,7 +7613,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 57.15 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7591,7 +7635,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 57.15 29.21 90)
 			(hide yes)
 			(show_name no)
@@ -7624,8 +7668,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 57.15 29.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 57.15 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 57.15 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7763,6 +7829,17 @@
 		)
 		(property "LCSC" "C15850"
 			(at 119.38 29.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL21A106KAYNNNE/3888549?s=N4IgTCBcDaIMIBkwEYCCyAMA2A0qgmgHLECiIAugL5A"
+			(at 119.38 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7953,7 +8030,7 @@
 				)
 			)
 		)
-		(property "MPN" "LIS2DHTR"
+		(property "MPN" ""
 			(at 45.72 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -8377,7 +8454,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 251.46 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8388,7 +8465,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 251.46 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -8410,7 +8487,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 251.46 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -8443,8 +8520,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 251.46 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 251.46 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 251.46 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9099,7 +9198,7 @@
 				)
 			)
 		)
-		(property "Distributor Link 2" "https://www.mouser.in/ProductDetail/Texas-Instruments/MSPM0G3507SPTR?qs=ST9lo4GX8V1GEI0H4GAJcA%3D%3D"
+		(property "Distributor Link 2" ""
 			(at 318.262 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -9112,6 +9211,17 @@
 		)
 		(property "LCSC" "C22362630"
 			(at 268.224 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link2" "https://www.mouser.in/ProductDetail/Texas-Instruments/MSPM0G3507SPTR?qs=ST9lo4GX8V1GEI0H4GAJcA%3D%3D"
+			(at 181.61 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9441,7 +9551,7 @@
 				)
 			)
 		)
-		(property "Distributor Link 1" "https://www.digikey.fr/fr/products/detail/yageo/RT0603BRD07100KL/1072187?s=N4IgTCBcDaIEoBUAMA2JBmAQnAIkg7AIxJIDSAMiALoC%2BQA"
+		(property "Distributor Link 1" ""
 			(at 154.94 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9452,7 +9562,7 @@
 				)
 			)
 		)
-		(property "Distributor Link 2" "https://www.mouser.fr/fr/ProductDetail/YAGEO/RT0603BRD07100KL?qs=axriQ0Yj98%252BtJ4o%2FXFGgtQ%3D%3D"
+		(property "Distributor Link 2" ""
 			(at 154.94 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -9465,6 +9575,28 @@
 		)
 		(property "LCSC" "C122538"
 			(at 154.94 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/yageo/RT0603BRD07100KL/1072187?s=N4IgTCBcDaIEoBUAMA2JBmAQnAIkg7AIxJIDSAMiALoC%2BQA"
+			(at 154.94 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link2" "https://www.mouser.fr/fr/ProductDetail/YAGEO/RT0603BRD07100KL?qs=axriQ0Yj98%252BtJ4o%2FXFGgtQ%3D%3D"
+			(at 154.94 49.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9687,7 +9819,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 100.33 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9698,7 +9830,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 100.33 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -9720,7 +9852,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 100.33 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -9753,8 +9885,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 100.33 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 100.33 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 100.33 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10204,6 +10358,17 @@
 		)
 		(property "LCSC" "C15850"
 			(at 214.63 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL21A106KAYNNNE/3888549?s=N4IgTCBcDaIMIBkwEYCCyAMA2A0qgmgHLECiIAugL5A"
+			(at 214.63 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10723,7 +10888,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C15850.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C19110.pdf"
 			(at 82.55 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10734,7 +10899,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10uF 25V X5R 0805"
+		(property "Description" "CAP CER 2.2uF 25V X7R 0805"
 			(at 82.55 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10756,7 +10921,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21A106KAYNNNE"
+		(property "Manufacturer Part Number" "CL21B225KAFNNNE"
 			(at 82.55 29.21 90)
 			(hide yes)
 			(show_name no)
@@ -10789,8 +10954,19 @@
 				)
 			)
 		)
-		(property "LCSC" "C15850"
+		(property "LCSC" "C19110"
 			(at 82.55 29.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL21B225KAFNNNE/3888612?s=N4IgTCBcDaIMIBkwEYBCYwFYDSBBAYgHLECiIAugL5A"
+			(at 82.55 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12905,7 +13081,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 232.41 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -12916,7 +13092,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 232.41 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -12938,7 +13114,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 232.41 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -12971,8 +13147,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 232.41 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 232.41 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 232.41 25.4 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13355,7 +13553,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 25.4 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -13366,7 +13564,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 25.4 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -13388,7 +13586,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 25.4 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -13421,8 +13619,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 25.4 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 25.4 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 25.4 130.81 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13491,7 +13711,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C13967.pdf"
+		(property "Datasheet" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
 			(at 69.85 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -13502,7 +13722,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 470F 50V X7R 0603"
+		(property "Description" "CAP CER 0.47UF 25V X7R 0603"
 			(at 69.85 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -13524,7 +13744,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part Number" "CL21B474KBFNNNE"
+		(property "Manufacturer Part Number" "CL10B474KA8NNNC"
 			(at 69.85 29.21 90)
 			(hide yes)
 			(show_name no)
@@ -13557,8 +13777,30 @@
 				)
 			)
 		)
-		(property "LCSC" "C13967"
+		(property "LCSC" "C1623"
 			(at 69.85 29.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor  Link 1" "https://www.digikey.fr/fr/products/detail/samsung-electro-mechanics/CL10B474KA8NNNC/3887741?s=N4IgTCBcDaIMIBkCMAGAQgFgOwYNIEEAOAOVLhAF0BfIA"
+			(at 69.85 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link 1" "https://www.digikey.fr/fr/models/3887741?tab=ultralibrarian"
+			(at 69.85 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
